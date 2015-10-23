@@ -1,4 +1,4 @@
-## Follow these steps to set up Patternlab (PL):
+## Set up steps for Patternlab (PL):
 
 * fork and clone repo: `git clone git@github.com:[username]/repo-pl.git`
 * generate PL: `php core/builder.php -g`
