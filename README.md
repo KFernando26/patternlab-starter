@@ -1,3 +1,11 @@
+## Follow these steps to set up Patternlab (PL):
+
+* fork and clone repo: `git clone git@github.com:[username]/repo-pl.git`
+* generate PL: `php core/builder.php -g`
+* install modules: `npm install`
+* watch for changes etc: `gulp`
+
+
 ## About Pattern Lab
 - [Pattern Lab Website](http://patternlab.io/)
 - [About Pattern Lab](http://patternlab.io/about.html)
