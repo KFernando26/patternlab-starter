@@ -3,7 +3,7 @@
 * fork and clone repo: `git clone git@github.com:[username]/repo-pl.git`
 * generate PL: `php core/builder.php -g`
 * install modules: `npm install`
-* watch for changes etc: `gulp`
+* set up local web server, watch for changes etc: `gulp`
 
 
 ## About Pattern Lab
