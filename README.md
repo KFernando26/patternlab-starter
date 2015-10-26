@@ -9,7 +9,7 @@ note: if `gulp` is not installed globally, you will have to install this as well
 
 `gulp -v`
 
-If this is installed, you should be ready to go : ). 
+If this is installed, you should be ready to go : ) (see the next section)
 
 If this is not installed, run the following command:
 `npm install -g gulp`
