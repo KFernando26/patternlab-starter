@@ -29,7 +29,7 @@ gulp.task('sass:watch', function () {
 
 
 gulp.task('publish', function() {
-  return gulp.src('./public/**')
+  return gulp.src('./public/**/*')
     .pipe(ghPages());
 });
 
