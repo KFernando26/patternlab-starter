@@ -1,10 +1,10 @@
 ## Set up steps for Patternlab (PL):
 
-Required:
-
+#### Requirements
 * [node](https://nodejs.org/en/)
 * [gulp](http://gulpjs.com/) - install global only
 
+#### Installation
 * Fork this repo: `https://github.com/rebmullin/patternlab-starter`
 * Clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
 * Generate PL: `php core/builder.php -g`
