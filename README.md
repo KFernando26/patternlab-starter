@@ -1,12 +1,12 @@
 ## Set up steps for Patternlab (PL):
 
 * Fork this repo: `https://github.com/rebmullin/patternlab-starter`
-* clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
-* generate PL: `php core/builder.php -g`
-* install modules: `npm install`
-* set up local web server, watch for changes etc: `gulp`
+* Clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
+* Generate PL: `php core/builder.php -g`
+* Install modules: `npm install`
+* Set up local web server, watch for changes etc: `gulp`
 
-* publish on gh-pages is a separate gulp task: `gulp publish`
+* Publish on gh-pages is a separate gulp task: `gulp publish`
 This can be viewed at the following url: http://[username].github.io/patternlab-starter/
 (note: this may take a a few mins initially to set up)
 
