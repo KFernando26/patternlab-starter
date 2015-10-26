@@ -4,8 +4,10 @@
 * Clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
 * Generate PL: `php core/builder.php -g`
 * Install modules: `npm install`
-* Set up local web server, watch for changes etc: `gulp`
 
+## Working with PL:
+
+* Set up local web server, watch for changes etc: `gulp`
 * Publish on gh-pages is a separate gulp task: `gulp publish`
 This can be viewed at the following url: http://[username].github.io/patternlab-starter/
 (note: this may take a a few mins initially to set up)
