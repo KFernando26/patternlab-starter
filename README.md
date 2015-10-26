@@ -5,7 +5,17 @@
 * Generate PL: `php core/builder.php -g`
 * Install modules: `npm install`
 
-## Working with PL:
+note: if `gulp` is not installed globally, you will have to install this as well. You can check if this is already installed with the following command:
+
+`gulp -v`
+
+If this is installed, you should be ready to go : ). 
+
+If this is not installed, run the following command:
+`npm install -g gulp`
+
+
+## Working with PL via gulp:
 
 * Set up local web server, watch for changes etc: `gulp`
 * Deploying to gh-pages is a separate gulp task: `gulp publish`
