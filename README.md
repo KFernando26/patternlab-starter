@@ -1,6 +1,6 @@
 ## Set up steps for Patternlab (PL):
 
-* go to PL starter repo on github and fork: `https://github.com/rebmullin/patternlab-starter`
+* Fork this repo: `https://github.com/rebmullin/patternlab-starter`
 * clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
 * generate PL: `php core/builder.php -g`
 * install modules: `npm install`
