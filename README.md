@@ -2,8 +2,8 @@
 
 Required:
 
-*[node](https://nodejs.org/en/)
-*[gulp](http://gulpjs.com/) - install global only
+* [node](https://nodejs.org/en/)
+* [gulp](http://gulpjs.com/) - install global only
 
 * Fork this repo: `https://github.com/rebmullin/patternlab-starter`
 * Clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
