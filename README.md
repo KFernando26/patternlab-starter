@@ -3,28 +3,7 @@
 Required:
 
 [node](https://nodejs.org/en/)
-
-note: if `node` is not installed, you will have to install this as well. You can check if this is already installed with the following command:
-
-`node -v`
-
-If this is installed, then you can skip this step
-
-If this is not installed,  if you're on a mac run the following command :
-`brew node install`  (see nodejs.org site for instructions for other OS)
-
-
-[gulp](http://gulpjs.com/):
-  
-note: if `gulp` is not installed globally, you will have to install this as well. You can check if this is already installed with the following command:
-
-`gulp -v`
-
-If this is installed, then you can skip this step
-
-If this is not installed, run the following command:
-`npm install -g gulp`
-
+[gulp](http://gulpjs.com/) - install global only
 
 * Fork this repo: `https://github.com/rebmullin/patternlab-starter`
 * Clone forked repo: `git clone git@github.com:[username]/patternlab-starter.git`
