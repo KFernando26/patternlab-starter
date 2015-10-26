@@ -8,7 +8,7 @@
 ## Working with PL:
 
 * Set up local web server, watch for changes etc: `gulp`
-* Publish on gh-pages is a separate gulp task: `gulp publish`
+* Deploying to gh-pages is a separate gulp task: `gulp publish`
 This can be viewed at the following url: `http://[username].github.io/patternlab-starter/`
 (note: this may take a a few mins initially to set up)
 
